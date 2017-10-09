@@ -22,7 +22,9 @@ section{
   margin: 0 1.5%;
   width:33%;
 }
+
 aside{
+  padding-top:50px;
   float:right;
   margin: 0 1.5%;
   width: 60%;
@@ -32,4 +34,8 @@ aside{
   float: right;
   position:relative;
   transform: rotate(353deg);
+  -ms-transform: rotate(353deg); /* IE 9 */
+  -webkit-transform: rotate(353deg); /* Chrome, Safari, Opera */
+
+
 }
