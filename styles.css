@@ -1,0 +1,35 @@
+body{
+  background-color: purple;
+}
+
+h1{
+  font-size: 30px;
+  font-family: "Times New Roman", serif;
+  font-weight: bold;
+  font-style: normal;
+}
+p{
+  font-size: 15px;
+  font-family: "Times New Roman", serif;
+  font-weight: normal;
+  font-style: italic;
+}
+
+
+<!--border-->
+section{
+  float:left;
+  margin: 0 1.5%;
+  width:25%;
+}
+aside{
+  float:right;
+  margin: 0 1.5%;
+  width: 60%;
+}
+
+#imgposition{
+
+  position:relative;
+  transform: rotate(300deg);
+}
