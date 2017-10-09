@@ -18,16 +18,17 @@ p{
 
 
 section{
-  padding-top:50px;
+  padding-left:55px;
+  padding-top: 15px;
   float:left;
   margin: 0 1.5%;
-  width:33%;
+  width:25%;
 }
 
 aside{
   border-left: thin solid #000;
-  padding-top:25px;
-  padding-left: 15px;
+  padding-top:20px;
+  padding-left: 35px;
   float:right;
   margin: 0 1.5%;
   width: 60%;
